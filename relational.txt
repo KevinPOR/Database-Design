@@ -1,0 +1,2 @@
+country(country_name|| population,area,infant_mortality,gdp,literacy,region,climate)
+happiness(ref||rank,happiness_score,#country_name->country[NN],year)
